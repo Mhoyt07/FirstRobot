@@ -4,7 +4,6 @@
 
 package frc.robot;
 
-import javax.lang.model.util.ElementScanner14;
 
 import com.revrobotics.CANSparkMax;
 import com.revrobotics.CANSparkBase.IdleMode;
